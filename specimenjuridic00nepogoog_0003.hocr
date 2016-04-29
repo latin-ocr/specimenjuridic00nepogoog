@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenjuridic00nepogoog_0003.png"; bbox 0 0 821 1348; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 198 458 453 545">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 198 458 453 545">
+     <span class='ocr_line' id='line_1_1' title="bbox 198 458 453 496; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 198 458 324 486; x_wconf 79' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_2' title='bbox 344 458 453 496; x_wconf 80' lang='lat' dir='ltr'><strong>College</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 269 507 383 545; baseline 0.009 -11"><span class='ocrx_word' id='word_1_3' title='bbox 269 507 383 545; x_wconf 80' lang='lat' dir='ltr'>Library</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 477 423 479 862">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 477 423 479 862">
+     <span class='ocr_line' id='line_1_3' title="bbox 477 423 479 862; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 477 423 479 862; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 80 68 644 1218">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 80 68 644 1218">
+     <span class='ocr_line' id='line_1_4' title="bbox 80 68 644 1218; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 80 68 644 1218; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
